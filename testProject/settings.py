@@ -56,15 +56,6 @@ MIDDLEWARE = [
 
 
 
-
-# CORS_ORIGIN_WHITELIST = [
-# 'http://localhost:3001',
-# 'https://movie-rater.surge.sh',
-# 'https://movierater.surge.sh',
-# 'https://sastaimdb.firebaseapp.com',
-# 'https://sastaimdb.web.app'
-# ]
-
 CORS_ORIGIN_ALLOW_ALL = True
 
 
